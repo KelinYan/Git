@@ -91,6 +91,11 @@ git存储的是文件的快照
   - git add . (想要添加的文件，一般都使用。添加所有的文件)
   - git commit -m "commit message"
 
+- 提交操作的修改
+  - git commit -amend  （尝试重新提交）
+  - git reset HEAD git.md （取消该文件的暂存）
+  - git checkout -- git.md （撤销对该文件的修改）危险命令，会撤销所有的修改
+
 - 从已经存在的仓库克隆项目
   - git clone git@github.com:KelinYan/Git.git
  
@@ -104,6 +109,21 @@ git存储的是文件的快照
 - 文件对比
   - git diff 使用该命令对比当前文件和暂存区域快照之间的差异，修改之后还没有暂存起来的内容
   - git diff --cached （--staged）查看已经暂存的将要添加到下次提交的内容
+
+- 版本回退 时光倒流
+  - git log 查看提交的日志，
+  - git log -stat 查看每次提交的简略的统计信息
+  - git reset --hard 版本信息  --根据生成的sha-1对应版本进行回退
+  > HEAD 表示当前的版本，HEAD^表示上一个版本，以此类推，版本迭代太多的话可以使用HEAD~100
+
+- 撤销版本回退 回到未来
+  - git reflog 查看操作的日志
+  - git reset --hard 版本信息  -- 还原到该操作时间点的版本
+
+
+## git 打标签
+
+
 
 
 
