@@ -161,15 +161,6 @@ git存储的是文件的快照
        ![](branch-5.png)
        ![](branch-6.png)
 
-```flow
-st=>start: 开始
-e=>end: 结束
-op=>operation: 我的操作
-cond=>condition: 确认？
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
 
 
 
