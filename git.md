@@ -91,6 +91,15 @@ git存储的是文件的快照
   - git add . (想要添加的文件，一般都使用。添加所有的文件)
   - git commit -m "commit message"
 
+- 更改git配置
+  - 配置个人信息
+    > git config --global user.name xyz
+  - 配置大小写敏感
+    > git config core.ignorecase false
+  - 设置别名
+    > git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset-%C(yellow)%d%Creset%s%Cgreen(%cr)%C(bold blue)<%an>%Creset'
+--abbrev-commit"
+
 - 提交操作的修改
   - git commit -amend  （尝试重新提交）
   - git reset HEAD git.md （取消该文件的暂存）
@@ -123,6 +132,32 @@ git存储的是文件的快照
 
 ## git 打标签
 
+
+## git分支 必杀特技
+
+ ### 简介
+ > 
+
+
+
+## git版本库
+
+- 工作区 
+  >我们看到的文件夹就是一个工作区
+- 暂存区  
+  >我们git add 之后就会将修改存储在暂存区
+- 分支
+  >我们git commit之后提交到分支
+
+    - git diff    是工作区(work dict)和暂存区(stage)的比较
+    - git diff --cached    #是暂存区(stage)和分支(master)的比较
+
+
+```sequence
+张三->李四: 嘿，小四儿, 写博客了没?
+Note right of 李四: 李四愣了一下，说：
+李四-->张三: 忙得吐血，哪有时间写。
+```
 
 
 
