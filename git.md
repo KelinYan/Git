@@ -69,11 +69,69 @@ git存储的是文件的快照
 每次你提交更新，或在 Git 中保存项目状态时，它主要对当时的全部文件制作一个快照并保存这个快照的索引。 为了高效，如果文件没有修改，Git 不再重新存储该文件，而是只保留一个链接指向之前存储的文件。
 
  - 近乎于所有的操作都在本地进行，本地的仓库中保存了所有的历史数据，并且没有网络的时候也可以在本地进行提交。
+ - Git 保证完整性
+ - Git 一般只添加数据
 
 ### git的三种状态
 >已提交（committed
 已修改（modified）
 已暂存（staged)
+
+
+## git 命令行
+
+- git config --list   查看个人配置的信息  
+- git config user.name 配置用户名 改名称在每次提交的时候都会使用到
+
+
+# git 使用流程
+
+- 创建git仓库
+  - git init
+  - git add . (想要添加的文件，一般都使用。添加所有的文件)
+  - git commit -m "commit message"
+
+- 提交操作的修改
+  - git commit -amend  （尝试重新提交）
+  - git reset HEAD git.md （取消该文件的暂存）
+  - git checkout -- git.md （撤销对该文件的修改）危险命令，会撤销所有的修改
+
+- 从已经存在的仓库克隆项目
+  - git clone git@github.com:KelinYan/Git.git
+ 
+- 查看当前的状态
+  - git status 查看当前文件存储的状态
+  - git branch 查看分支状态
+  - git branch -a 查看所有的分支
+
+- 添加ignore文件
+
+- 文件对比
+  - git diff 使用该命令对比当前文件和暂存区域快照之间的差异，修改之后还没有暂存起来的内容
+  - git diff --cached （--staged）查看已经暂存的将要添加到下次提交的内容
+
+- 版本回退 时光倒流
+  - git log 查看提交的日志，
+  - git log -stat 查看每次提交的简略的统计信息
+  - git reset --hard 版本信息  --根据生成的sha-1对应版本进行回退
+  > HEAD 表示当前的版本，HEAD^表示上一个版本，以此类推，版本迭代太多的话可以使用HEAD~100
+
+- 撤销版本回退 回到未来
+  - git reflog 查看操作的日志
+  - git reset --hard 版本信息  -- 还原到该操作时间点的版本
+
+
+## git 打标签
+
+
+
+
+
+
+
+
+
+
 
 
 
