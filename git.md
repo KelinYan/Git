@@ -6,6 +6,8 @@
 [官方文档](https://git-scm.com/book/zh/v2)
 
 [廖雪峰的git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+[ignore文件合集](https://github.com/github/gitignore)
 ## 介绍
  - git是一个分布式管理工具，区别于svn，他拥有集中的服务器同时每个客户端都是一个仓库
 
