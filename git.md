@@ -152,6 +152,8 @@ git存储的是文件的快照
     - git diff    是工作区(work dict)和暂存区(stage)的比较
     - git diff --cached    #是暂存区(stage)和分支(master)的比较
 
+       ![](branch-1.png)
+
 ```flow
 st=>start: 开始
 e=>end: 结束
