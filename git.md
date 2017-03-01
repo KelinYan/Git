@@ -153,6 +153,11 @@ git存储的是文件的快照
     - git diff --cached    #是暂存区(stage)和分支(master)的比较
 
        ![](branch-1.png)
+       ![](branch-2.png)
+       ![](branch-3.png)
+       ![](branch-4.png)
+       ![](branch-5.png)
+       ![](branch-6.png)
 
 ```flow
 st=>start: 开始
