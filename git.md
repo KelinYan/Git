@@ -1,16 +1,11 @@
 # GIT
 
 
-[话说Svn与Git的区别](http://www.jianshu.com/p/bfec042349ca)
 
-[官方文档](https://git-scm.com/book/zh/v2)
 
-[廖雪峰的git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-
-[ignore文件合集](https://github.com/github/gitignore)
 ## 介绍
- - git是一个分布式管理工具，区别于svn，他拥有集中的服务器同时每个客户端都是一个仓库
-
+git是一个分布式管理工具，区别于svn，他拥有集中的服务器同时每个客户端都是一个仓库
+没有网络的时候可以在各自的仓库进行修改和提交操作，在有网的环境中push到中央服务器
 
 
  #### 常用的命令
@@ -19,10 +14,13 @@
  - git init
  - git add
  - git commit
+ - git commit -a
  - git push
  - git stutas
  - git log
  - git diff
+ - git stage
+ - git stage pop
 
 
 #### git分支的操作命令
@@ -50,17 +48,9 @@
  - git feature -D
 
 
-
-#### pull request
-
-gitlab github 配置ssh
-
-git flow git多人协作及版本控制的流程
-
-
-
 #### git submoudle
 
+  - git submodule update 更新submodule代码
 
 
 ### git存储的介绍
@@ -75,9 +65,7 @@ git存储的是文件的快照
  - Git 一般只添加数据
 
 ### git的三种状态
->已提交（committed
-已修改（modified）
-已暂存（staged)
+>已提交（committed）已修改（modified）已暂存（staged)
 
 
 ## git 命令行
@@ -86,7 +74,7 @@ git存储的是文件的快照
 - git config user.name 配置用户名 改名称在每次提交的时候都会使用到
 
 
-# git 使用流程
+# git 使用
 
 - 创建git仓库
   - git init
@@ -95,10 +83,13 @@ git存储的是文件的快照
 
 - 更改git配置
   - 配置个人信息
+
     > git config --global user.name xyz
   - 配置大小写敏感
+
     > git config core.ignorecase false
   - 设置别名
+
     > git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset-%C(yellow)%d%Creset%s%Cgreen(%cr)%C(bold blue)<%an>%Creset'
 --abbrev-commit"
 
@@ -174,6 +165,14 @@ git存储的是文件的快照
 
 
 
+## 
+[话说Svn与Git的区别](http://www.jianshu.com/p/bfec042349ca)
+
+[官方文档](https://git-scm.com/book/zh/v2)
+
+[廖雪峰的git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+[ignore文件合集](https://github.com/github/gitignore)
 
 
 
