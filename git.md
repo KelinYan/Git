@@ -8,9 +8,13 @@ git是一个分布式管理工具，区别于svn，他拥有集中的服务器�
 没有网络的时候可以在各自的仓库进行修改和提交操作，在有网的环境中push到中央服务器
 
 
+## git特性
+ - 分布式
+ - 快照
+ - 状态区
+ - 分支
+
  #### 常用的命令
-
-
  - git init
  - git add
  - git commit
@@ -19,16 +23,14 @@ git是一个分布式管理工具，区别于svn，他拥有集中的服务器�
  - git stutas
  - git log
  - git diff
- - git stage
- - git stage pop
-
+ - git stash
+ - git stash pop
 
 #### git分支的操作命令
  - git checkout -b
  - git branch
  - git merge
  - git log --graph
-
 
  #### 更改提交的操作
  - git reset
@@ -42,7 +44,7 @@ git是一个分布式管理工具，区别于svn，他拥有集中的服务器�
  - git fetch
 
 
- #### 从远程仓库获取
+#### 从远程仓库获取
  - git clone
  - git fetch
  - git feature -D
@@ -51,6 +53,8 @@ git是一个分布式管理工具，区别于svn，他拥有集中的服务器�
 #### git submoudle
 
   - git submodule update 更新submodule代码
+
+
 
 
 ### git存储的介绍
@@ -68,19 +72,16 @@ git存储的是文件的快照
 >已提交（committed）已修改（modified）已暂存（staged)
 
 
-## git 命令行
-
-- git config --list   查看个人配置的信息  
-- git config user.name 配置用户名 改名称在每次提交的时候都会使用到
-
 
 # git 使用
 
 - 创建git仓库
   - git init
+  - git clone
   - git add . (想要添加的文件，一般都使用。添加所有的文件)
   - git commit -m "commit message"
-
+  - git commit -a -m "commit msg" (包含git add命令)
+  - git remote add origin
 - 更改git配置
   - 配置个人信息
 
@@ -98,19 +99,23 @@ git存储的是文件的快照
   - git reset HEAD git.md （取消该文件的暂存）
   - git checkout -- git.md （撤销对该文件的修改）危险命令，会撤销所有的修改
 
-- 从已经存在的仓库克隆项目
-  - git clone git@github.com:KelinYan/Git.git
- 
 - 查看当前的状态
   - git status 查看当前文件存储的状态
   - git branch 查看分支状态
   - git branch -a 查看所有的分支
 
 - 添加ignore文件
+  - 将需要忽略的文件配置到项目根目录的.ignore文件中
+  - [ignore文件合集](https://github.com/github/gitignore)
 
-- 文件对比
+- 查看仓库状态以及文件对比
+  >仓库分为工作区，暂存区，历史区
+
+     ![git仓库状态](imgs/git-repo.jpeg)
+  - git status
   - git diff 使用该命令对比当前文件和暂存区域快照之间的差异，修改之后还没有暂存起来的内容
   - git diff --cached （--staged）查看已经暂存的将要添加到下次提交的内容
+  - git diff HEAD  (HEAD^)标识上上个版本
 
 - 版本回退 时光倒流
   - git log 查看提交的日志，
@@ -123,7 +128,14 @@ git存储的是文件的快照
   - git reset --hard 版本信息  -- 还原到该操作时间点的版本
 
 
-## git 打标签
+- git 打标签
+  > 唯一确定了打标签时刻的版本。将来无论什么时候，取某个标签的版本，就是把那个打标签的时刻的历史版本取出来。所以，标签也是版本库的一个快照。
+
+  - git tag tagName  添加标签
+  - git tag -d tagName  删除该标签
+  - git push origin tagName 推送一个标签到远程仓库
+  - git push origin --tags  推送所有的标签到远程仓库
+
 
 
 ## git分支 必杀特技
