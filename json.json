@@ -1,0 +1,1944 @@
+{
+    "itemList": [
+        
+        {
+            "type": "video",
+            "data": {
+                "dataType": "VideoBeanForClient",
+                "id": 52336,
+                "title": "我要变成一代舞王追到女神！",
+                "slogan": "可惜，自古套路得人心……",
+                "description": "女神居然邀请我参加「迪斯科舞会」啦！从来没有参加过 Party 的我异常兴奋！不过……我并不会跳舞怎么办！Tommy Ashby，这个高中生患有严重的社交焦虑，他决定走出自己的舒适区，学习 70 年代的迪斯科舞，他的人生小目标能达成么？From Silvermine Productions",
+                "provider": {
+                    "name": "Vimeo",
+                    "alias": "vimeo",
+                    "icon": "http://img.kaiyanapp.com/c3ad630be461cbb081649c9e21d6cbe3.png"
+                },
+                "category": "剧情",
+                "author": null,
+                "cover": {
+                    "feed": "http://img.kaiyanapp.com/539d1e91705755386ab9cb1b598f0f83.jpeg?imageMogr2/quality/60/format/jpg",
+                    "detail": "http://img.kaiyanapp.com/539d1e91705755386ab9cb1b598f0f83.jpeg?imageMogr2/quality/60/format/jpg",
+                    "blurred": "http://img.kaiyanapp.com/5fc1472de6996d72705a9d7fa1609a97.jpeg?imageMogr2/quality/60/format/jpg",
+                    "sharing": null,
+                    "homepage": "http://img.kaiyanapp.com/539d1e91705755386ab9cb1b598f0f83.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"
+                },
+                "playUrl": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52336&editionType=default&source=qcloud",
+                "thumbPlayUrl": "",
+                "duration": 865,
+                "webUrl": {
+                    "raw": "http://www.eyepetizer.net/detail.html?vid=52336",
+                    "forWeibo": "http://wandou.im/3ocnbb"
+                },
+                "releaseTime": 1506387602000,
+                "library": "DAILY",
+                "playInfo": [
+                    {
+                        "height": 270,
+                        "width": 480,
+                        "urlList": [
+                            {
+                                "name": "qcloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52336&editionType=low&source=qcloud",
+                                "size": 33369473
+                            },
+                            {
+                                "name": "ucloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52336&editionType=low&source=ucloud",
+                                "size": 33369473
+                            }
+                        ],
+                        "name": "流畅",
+                        "type": "low",
+                        "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52336&editionType=low&source=qcloud"
+                    },
+                    {
+                        "height": 480,
+                        "width": 854,
+                        "urlList": [
+                            {
+                                "name": "qcloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52336&editionType=normal&source=qcloud",
+                                "size": 72906047
+                            },
+                            {
+                                "name": "ucloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52336&editionType=normal&source=ucloud",
+                                "size": 72906047
+                            }
+                        ],
+                        "name": "标清",
+                        "type": "normal",
+                        "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52336&editionType=normal&source=qcloud"
+                    },
+                    {
+                        "height": 720,
+                        "width": 1280,
+                        "urlList": [
+                            {
+                                "name": "qcloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52336&editionType=high&source=qcloud",
+                                "size": 117976951
+                            },
+                            {
+                                "name": "ucloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52336&editionType=high&source=ucloud",
+                                "size": 117976951
+                            }
+                        ],
+                        "name": "高清",
+                        "type": "high",
+                        "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52336&editionType=high&source=qcloud"
+                    }
+                ],
+                "consumption": {
+                    "collectionCount": 16,
+                    "shareCount": 6,
+                    "replyCount": 2
+                },
+                "campaign": null,
+                "waterMarks": null,
+                "adTrack": null,
+                "tags": [
+                    {
+                        "id": 12,
+                        "name": "剧情",
+                        "actionUrl": "eyepetizer://tag/12/?title=%E5%89%A7%E6%83%85",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 108,
+                        "name": "爱情",
+                        "actionUrl": "eyepetizer://tag/108/?title=%E7%88%B1%E6%83%85",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 140,
+                        "name": "搞笑",
+                        "actionUrl": "eyepetizer://tag/140/?title=%E6%90%9E%E7%AC%91",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 150,
+                        "name": "青春",
+                        "actionUrl": "eyepetizer://tag/150/?title=%E9%9D%92%E6%98%A5",
+                        "adTrack": null
+                    }
+                ],
+                "type": "NORMAL",
+                "titlePgc": "",
+                "descriptionPgc": "",
+                "remark": null,
+                "idx": 0,
+                "shareAdTrack": null,
+                "favoriteAdTrack": null,
+                "webAdTrack": null,
+                "date": 1506387600000,
+                "promotion": null,
+                "label": null,
+                "labelList": [],
+                "descriptionEditor": "女神居然邀请我参加「迪斯科舞会」啦！从来没有参加过 Party 的我异常兴奋！不过……我并不会跳舞怎么办！Tommy Ashby，这个高中生患有严重的社交焦虑，他决定走出自己的舒适区，学习 70 年代的迪斯科舞，他的人生小目标能达成么？From Silvermine Productions",
+                "collected": false,
+                "played": false,
+                "subtitles": [],
+                "lastViewTime": null,
+                "playlists": null
+            },
+            "tag": null
+        },
+        {
+            "type": "textFooter",
+            "data": {
+                "dataType": "TextFooter",
+                "text": "查看往期编辑精选",
+                "font": "normal",
+                "actionUrl": "eyepetizer://feed?issueIndex=1",
+                "adTrack": null
+            },
+            "tag": null
+        },
+        {
+            "type": "videoCollectionWithCover",
+            "data": {
+                "dataType": "ItemCollection",
+                "header": {
+                    "id": 208,
+                    "title": null,
+                    "font": "normal",
+                    "cover": "http://img.kaiyanapp.com/18b9ba66ff36348138ebdb3de6c95780.jpeg?imageMogr2/quality/60/format/jpg",
+                    "label": {
+                        "text": "",
+                        "card": "",
+                        "detail": null
+                    },
+                    "actionUrl": "eyepetizer://webview/?title=%E8%BF%99%E7%A7%8D%E6%97%A0%E8%81%8A%E8%A7%86%E9%A2%91%E6%88%91%E5%B1%85%E7%84%B6%E7%9C%8B%E5%AE%8C%E4%BA%86%EF%BC%9A%E5%B7%A5%E4%BD%9C%E6%97%A5%E8%A7%A3%E5%8E%8B%E7%A5%9E%E5%99%A8&url=http%3A%2F%2Fwww.eyepetizer.net%2Fvideos_article.html%3Fnid%3D208%26shareable%3Dtrue",
+                    "labelList": [
+                        {
+                            "text": "",
+                            "actionUrl": null
+                        }
+                    ]
+                },
+                "itemList": [
+                    
+                    {
+                        "type": "video",
+                        "data": {
+                            "dataType": "VideoBeanForClient",
+                            "id": 48769,
+                            "title": "动物皆萌：豚鼠可爱日常",
+                            "slogan": null,
+                            "description": "好想抱一抱！",
+                            "provider": {
+                                "name": "定制来源",
+                                "alias": "CustomSrc",
+                                "icon": ""
+                            },
+                            "category": "萌宠",
+                            "author": {
+                                "id": 1008,
+                                "icon": "http://img.kaiyanapp.com/91e3062b14821069696274081e5c4087.jpeg?imageMogr2/quality/60/format/jpg",
+                                "name": "Funny Pets",
+                                "description": "收集有趣的宠物视频，希望能戳中你的笑点。",
+                                "link": "",
+                                "latestReleaseTime": 1505966876000,
+                                "videoNum": 190,
+                                "adTrack": null,
+                                "follow": {
+                                    "itemType": "author",
+                                    "itemId": 1008,
+                                    "followed": false
+                                },
+                                "shield": {
+                                    "itemType": "author",
+                                    "itemId": 1008,
+                                    "shielded": false
+                                },
+                                "approvedNotReadyVideoCount": 0,
+                                "ifPgc": true
+                            },
+                            "cover": {
+                                "feed": "http://img.kaiyanapp.com/c7915f6c1927f61575162cf796175915.jpeg?imageMogr2/quality/60/format/jpg",
+                                "detail": "http://img.kaiyanapp.com/c7915f6c1927f61575162cf796175915.jpeg?imageMogr2/quality/60/format/jpg",
+                                "blurred": "http://img.kaiyanapp.com/345df64b07e980bb2f5db06e454644c2.jpeg?imageMogr2/quality/60/format/jpg",
+                                "sharing": null,
+                                "homepage": null
+                            },
+                            "playUrl": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=48769&editionType=default&source=qcloud",
+                            "thumbPlayUrl": null,
+                            "duration": 353,
+                            "webUrl": {
+                                "raw": "http://www.eyepetizer.net/detail.html?vid=48769",
+                                "forWeibo": "http://wandou.im/3o9ywx"
+                            },
+                            "releaseTime": 1504606064000,
+                            "library": "NOT_RECOMMEND",
+                            "playInfo": [
+                                {
+                                    "height": 270,
+                                    "width": 480,
+                                    "urlList": [
+                                        {
+                                            "name": "qcloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=48769&editionType=low&source=qcloud",
+                                            "size": 15516014
+                                        },
+                                        {
+                                            "name": "ucloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=48769&editionType=low&source=ucloud",
+                                            "size": 15516014
+                                        }
+                                    ],
+                                    "name": "流畅",
+                                    "type": "low",
+                                    "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=48769&editionType=low&source=qcloud"
+                                },
+                                {
+                                    "height": 480,
+                                    "width": 854,
+                                    "urlList": [
+                                        {
+                                            "name": "qcloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=48769&editionType=normal&source=qcloud",
+                                            "size": 32933477
+                                        },
+                                        {
+                                            "name": "ucloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=48769&editionType=normal&source=ucloud",
+                                            "size": 32933477
+                                        }
+                                    ],
+                                    "name": "标清",
+                                    "type": "normal",
+                                    "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=48769&editionType=normal&source=qcloud"
+                                },
+                                {
+                                    "height": 720,
+                                    "width": 1280,
+                                    "urlList": [
+                                        {
+                                            "name": "qcloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=48769&editionType=high&source=qcloud",
+                                            "size": 55677628
+                                        },
+                                        {
+                                            "name": "ucloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=48769&editionType=high&source=ucloud",
+                                            "size": 55677628
+                                        }
+                                    ],
+                                    "name": "高清",
+                                    "type": "high",
+                                    "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=48769&editionType=high&source=qcloud"
+                                }
+                            ],
+                            "consumption": {
+                                "collectionCount": 37,
+                                "shareCount": 60,
+                                "replyCount": 1
+                            },
+                            "campaign": null,
+                            "waterMarks": null,
+                            "adTrack": null,
+                            "tags": [],
+                            "type": "NORMAL",
+                            "titlePgc": "动物皆萌：豚鼠可爱日常",
+                            "descriptionPgc": "好想抱一抱！",
+                            "remark": null,
+                            "idx": 0,
+                            "shareAdTrack": null,
+                            "favoriteAdTrack": null,
+                            "webAdTrack": null,
+                            "date": 1504606064000,
+                            "promotion": null,
+                            "label": null,
+                            "labelList": [],
+                            "descriptionEditor": "",
+                            "collected": false,
+                            "played": false,
+                            "subtitles": [],
+                            "lastViewTime": null,
+                            "playlists": null
+                        },
+                        "tag": null
+                    },
+                    {
+                        "type": "actionCard",
+                        "data": {
+                            "dataType": "ActionCard",
+                            "id": 208,
+                            "text": "查看全部",
+                            "actionUrl": "eyepetizer://webview/?title=%E8%BF%99%E7%A7%8D%E6%97%A0%E8%81%8A%E8%A7%86%E9%A2%91%E6%88%91%E5%B1%85%E7%84%B6%E7%9C%8B%E5%AE%8C%E4%BA%86%EF%BC%9A%E5%B7%A5%E4%BD%9C%E6%97%A5%E8%A7%A3%E5%8E%8B%E7%A5%9E%E5%99%A8&url=http%3A%2F%2Fwww.eyepetizer.net%2Fvideos_article.html%3Fnid%3D208%26shareable%3Dtrue",
+                            "adTrack": null
+                        },
+                        "tag": null
+                    }
+                ],
+                "count": 6,
+                "adTrack": null
+            },
+            "tag": null
+        },
+        {
+            "type": "textHeader",
+            "data": {
+                "dataType": "TextHeader",
+                "text": "- Sep. 25, Brunch -",
+                "font": "lobster",
+                "adTrack": null
+            },
+            "tag": null
+        },
+        {
+            "type": "video",
+            "data": {
+                "dataType": "VideoBeanForClient",
+                "id": 12893,
+                "title": "微缩延时：「小」北欧",
+                "slogan": "换个角度，俯瞰这片土地",
+                "description": "看过了太多令人称绝的壮美风光，这次来换个口味。以俯瞰视角为灵感，我把这里的风土人情缩小成蚂蚁的世界，带你看不一样的北欧风光。",
+                "provider": {
+                    "name": "Vimeo",
+                    "alias": "vimeo",
+                    "icon": "http://img.kaiyanapp.com/c3ad630be461cbb081649c9e21d6cbe3.png"
+                },
+                "category": "旅行",
+                "author": null,
+                "cover": {
+                    "feed": "http://img.kaiyanapp.com/f731b4a60ad96d0ac189c10b9b07adde.jpeg?imageMogr2/quality/60/format/jpg",
+                    "detail": "http://img.kaiyanapp.com/f731b4a60ad96d0ac189c10b9b07adde.jpeg?imageMogr2/quality/60/format/jpg",
+                    "blurred": "http://img.kaiyanapp.com/2c0e162fe97ac28dd7a2324a3532de7e.jpeg?imageMogr2/quality/60/format/jpg",
+                    "sharing": null,
+                    "homepage": "http://img.kaiyanapp.com/f731b4a60ad96d0ac189c10b9b07adde.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"
+                },
+                "playUrl": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=12893&editionType=default&source=qcloud",
+                "thumbPlayUrl": "http://baobab.kaiyanapp.com/api/v1/playUrl/1506264227907_e335beab.mp4?vid=12893&source=qcloud",
+                "duration": 210,
+                "webUrl": {
+                    "raw": "http://www.eyepetizer.net/detail.html?vid=12893",
+                    "forWeibo": "http://wandou.im/3lftlf"
+                },
+                "releaseTime": 1506301200000,
+                "library": "DAILY",
+                "playInfo": [
+                    {
+                        "height": 270,
+                        "width": 480,
+                        "urlList": [
+                            {
+                                "name": "qcloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=12893&editionType=low&source=qcloud",
+                                "size": 8283831
+                            },
+                            {
+                                "name": "ucloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=12893&editionType=low&source=ucloud",
+                                "size": 8283831
+                            }
+                        ],
+                        "name": "流畅",
+                        "type": "low",
+                        "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=12893&editionType=low&source=qcloud"
+                    },
+                    {
+                        "height": 480,
+                        "width": 854,
+                        "urlList": [
+                            {
+                                "name": "qcloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=12893&editionType=normal&source=qcloud",
+                                "size": 20804033
+                            },
+                            {
+                                "name": "ucloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=12893&editionType=normal&source=ucloud",
+                                "size": 20804033
+                            }
+                        ],
+                        "name": "标清",
+                        "type": "normal",
+                        "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=12893&editionType=normal&source=qcloud"
+                    },
+                    {
+                        "height": 720,
+                        "width": 1280,
+                        "urlList": [
+                            {
+                                "name": "qcloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=12893&editionType=high&source=qcloud",
+                                "size": 36905192
+                            },
+                            {
+                                "name": "ucloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=12893&editionType=high&source=ucloud",
+                                "size": 36905192
+                            }
+                        ],
+                        "name": "高清",
+                        "type": "high",
+                        "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=12893&editionType=high&source=qcloud"
+                    }
+                ],
+                "consumption": {
+                    "collectionCount": 1308,
+                    "shareCount": 823,
+                    "replyCount": 31
+                },
+                "campaign": null,
+                "waterMarks": null,
+                "adTrack": null,
+                "tags": [
+                    {
+                        "id": 10,
+                        "name": "旅行",
+                        "actionUrl": "eyepetizer://tag/10/?title=%E6%97%85%E8%A1%8C",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 84,
+                        "name": "微缩",
+                        "actionUrl": "eyepetizer://tag/84/?title=%E5%BE%AE%E7%BC%A9",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 78,
+                        "name": "延时",
+                        "actionUrl": "eyepetizer://tag/78/?title=%E5%BB%B6%E6%97%B6",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 340,
+                        "name": "北欧",
+                        "actionUrl": "eyepetizer://tag/340/?title=%E5%8C%97%E6%AC%A7",
+                        "adTrack": null
+                    }
+                ],
+                "type": "NORMAL",
+                "titlePgc": null,
+                "descriptionPgc": null,
+                "remark": "There are numerous time lapse videos of Iceland and Norway showing the beauty of their remote landscapes. But when you're in the mountains, looking down, you see so many things happening. Especially in places like Geiranger (Norway) where ferries are sailing back and forth through the fjords, kayak cruises arriving and departing and cars crawling up and down the steep roads. I wanted to portray this like you are watching an ants hill, which gives such a funny perspective on things.",
+                "idx": 0,
+                "shareAdTrack": null,
+                "favoriteAdTrack": null,
+                "webAdTrack": null,
+                "date": 1506301200000,
+                "promotion": null,
+                "label": null,
+                "labelList": [],
+                "descriptionEditor": "看过了太多令人称绝的壮美风光，这次来换个口味。以俯瞰视角为灵感，我把这里的风土人情缩小成蚂蚁的世界，带你看不一样的北欧风光。",
+                "collected": false,
+                "played": false,
+                "subtitles": [],
+                "lastViewTime": null,
+                "playlists": null
+            },
+            "tag": null
+        },
+        {
+            "type": "video",
+            "data": {
+                "dataType": "VideoBeanForClient",
+                "id": 51719,
+                "title": "童话新编：「阿拉丁与茉莉公主」",
+                "slogan": "新时代的狗血「三角恋」故事",
+                "description": "不仅有兼职优步司机阿拉丁、难搞公主贾斯敏，这条恶搞短片更是拉来了反派人物贾方，硬凑了一段无厘头的「三角恋」。",
+                "provider": {
+                    "name": "YouTube",
+                    "alias": "youtube",
+                    "icon": "http://img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"
+                },
+                "category": "搞笑",
+                "author": {
+                    "id": 880,
+                    "icon": "http://img.kaiyanapp.com/a1e7e67c7f3a5411fb5cdce89b3a5da9.jpeg?imageMogr2/quality/60/format/jpg",
+                    "name": "Anwar Jibawi",
+                    "description": "搞笑视频博主，为大家带来欢乐。",
+                    "link": "",
+                    "latestReleaseTime": 1506301201000,
+                    "videoNum": 32,
+                    "adTrack": null,
+                    "follow": {
+                        "itemType": "author",
+                        "itemId": 880,
+                        "followed": false
+                    },
+                    "shield": {
+                        "itemType": "author",
+                        "itemId": 880,
+                        "shielded": false
+                    },
+                    "approvedNotReadyVideoCount": 0,
+                    "ifPgc": true
+                },
+                "cover": {
+                    "feed": "http://img.kaiyanapp.com/2846af991ac2cc518a7f829952410c08.jpeg?imageMogr2/quality/60/format/jpg",
+                    "detail": "http://img.kaiyanapp.com/2846af991ac2cc518a7f829952410c08.jpeg?imageMogr2/quality/60/format/jpg",
+                    "blurred": "http://img.kaiyanapp.com/3b0f0957c5c732f0c25fe1ef9d2bcc99.jpeg?imageMogr2/quality/60/format/jpg",
+                    "sharing": null,
+                    "homepage": "http://img.kaiyanapp.com/2846af991ac2cc518a7f829952410c08.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"
+                },
+                "playUrl": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=51719&editionType=default&source=qcloud",
+                "thumbPlayUrl": "",
+                "duration": 318,
+                "webUrl": {
+                    "raw": "http://www.eyepetizer.net/detail.html?vid=51719",
+                    "forWeibo": "http://wandou.im/3occem"
+                },
+                "releaseTime": 1506301201000,
+                "library": "DAILY",
+                "playInfo": [
+                    {
+                        "height": 270,
+                        "width": 480,
+                        "urlList": [
+                            {
+                                "name": "qcloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=51719&editionType=low&source=qcloud",
+                                "size": 13498901
+                            },
+                            {
+                                "name": "ucloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=51719&editionType=low&source=ucloud",
+                                "size": 13498901
+                            }
+                        ],
+                        "name": "流畅",
+                        "type": "low",
+                        "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=51719&editionType=low&source=qcloud"
+                    },
+                    {
+                        "height": 480,
+                        "width": 854,
+                        "urlList": [
+                            {
+                                "name": "qcloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=51719&editionType=normal&source=qcloud",
+                                "size": 31593629
+                            },
+                            {
+                                "name": "ucloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=51719&editionType=normal&source=ucloud",
+                                "size": 31593629
+                            }
+                        ],
+                        "name": "标清",
+                        "type": "normal",
+                        "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=51719&editionType=normal&source=qcloud"
+                    },
+                    {
+                        "height": 720,
+                        "width": 1280,
+                        "urlList": [
+                            {
+                                "name": "qcloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=51719&editionType=high&source=qcloud",
+                                "size": 57137779
+                            },
+                            {
+                                "name": "ucloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=51719&editionType=high&source=ucloud",
+                                "size": 57137779
+                            }
+                        ],
+                        "name": "高清",
+                        "type": "high",
+                        "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=51719&editionType=high&source=qcloud"
+                    }
+                ],
+                "consumption": {
+                    "collectionCount": 89,
+                    "shareCount": 50,
+                    "replyCount": 4
+                },
+                "campaign": null,
+                "waterMarks": null,
+                "adTrack": null,
+                "tags": [
+                    {
+                        "id": 140,
+                        "name": "搞笑",
+                        "actionUrl": "eyepetizer://tag/140/?title=%E6%90%9E%E7%AC%91",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 108,
+                        "name": "爱情",
+                        "actionUrl": "eyepetizer://tag/108/?title=%E7%88%B1%E6%83%85",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 162,
+                        "name": "无厘头",
+                        "actionUrl": "eyepetizer://tag/162/?title=%E6%97%A0%E5%8E%98%E5%A4%B4",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 490,
+                        "name": "脑洞",
+                        "actionUrl": "eyepetizer://tag/490/?title=%E8%84%91%E6%B4%9E",
+                        "adTrack": null
+                    }
+                ],
+                "type": "NORMAL",
+                "titlePgc": "",
+                "descriptionPgc": "",
+                "remark": "其实是优步司机与难搞公主的故事",
+                "idx": 0,
+                "shareAdTrack": null,
+                "favoriteAdTrack": null,
+                "webAdTrack": null,
+                "date": 1506301200000,
+                "promotion": null,
+                "label": null,
+                "labelList": [],
+                "descriptionEditor": "不仅有兼职优步司机阿拉丁、难搞公主贾斯敏，这条恶搞短片更是拉来了反派人物贾方，硬凑了一段无厘头的「三角恋」。",
+                "collected": false,
+                "played": false,
+                "subtitles": [],
+                "lastViewTime": null,
+                "playlists": null
+            },
+            "tag": null
+        },
+        {
+            "type": "video",
+            "data": {
+                "dataType": "VideoBeanForClient",
+                "id": 52424,
+                "title": "社交新时代，柯基也来约一发",
+                "slogan": "然而最后还是逃不过套路……",
+                "description": "生活处处有惊喜，最后还是逃不过套路……",
+                "provider": {
+                    "name": "定制来源",
+                    "alias": "CustomSrc",
+                    "icon": ""
+                },
+                "category": "萌宠",
+                "author": {
+                    "id": 1143,
+                    "icon": "http://img.kaiyanapp.com/f03abdfa48ea59bb1dbec7a2f0b6dd0d.jpeg?imageMogr2/quality/60/format/jpg",
+                    "name": "Topi The Corgi",
+                    "description": "我是一只三岁大的蠢萌小柯基，想看我的有趣日常吗？",
+                    "link": "",
+                    "latestReleaseTime": 1505966902000,
+                    "videoNum": 41,
+                    "adTrack": null,
+                    "follow": {
+                        "itemType": "author",
+                        "itemId": 1143,
+                        "followed": false
+                    },
+                    "shield": {
+                        "itemType": "author",
+                        "itemId": 1143,
+                        "shielded": false
+                    },
+                    "approvedNotReadyVideoCount": 0,
+                    "ifPgc": true
+                },
+                "cover": {
+                    "feed": "http://img.kaiyanapp.com/956ca205ec304d539e186e4bdf62b816.jpeg?imageMogr2/quality/60/format/jpg",
+                    "detail": "http://img.kaiyanapp.com/956ca205ec304d539e186e4bdf62b816.jpeg?imageMogr2/quality/60/format/jpg",
+                    "blurred": "http://img.kaiyanapp.com/a0d98dcb31908887dea9ea1b093cc07f.jpeg?imageMogr2/quality/60/format/jpg",
+                    "sharing": null,
+                    "homepage": "http://img.kaiyanapp.com/956ca205ec304d539e186e4bdf62b816.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"
+                },
+                "playUrl": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52424&editionType=default&source=qcloud",
+                "thumbPlayUrl": null,
+                "duration": 97,
+                "webUrl": {
+                    "raw": "http://www.eyepetizer.net/detail.html?vid=52424",
+                    "forWeibo": "http://wandou.im/3ocpl7"
+                },
+                "releaseTime": 1505966902000,
+                "library": "DAILY",
+                "playInfo": [
+                    {
+                        "height": 270,
+                        "width": 480,
+                        "urlList": [
+                            {
+                                "name": "qcloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52424&editionType=low&source=qcloud",
+                                "size": 3555355
+                            },
+                            {
+                                "name": "ucloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52424&editionType=low&source=ucloud",
+                                "size": 3555355
+                            }
+                        ],
+                        "name": "流畅",
+                        "type": "low",
+                        "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52424&editionType=low&source=qcloud"
+                    },
+                    {
+                        "height": 480,
+                        "width": 854,
+                        "urlList": [
+                            {
+                                "name": "qcloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52424&editionType=normal&source=qcloud",
+                                "size": 7181608
+                            },
+                            {
+                                "name": "ucloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52424&editionType=normal&source=ucloud",
+                                "size": 7181608
+                            }
+                        ],
+                        "name": "标清",
+                        "type": "normal",
+                        "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52424&editionType=normal&source=qcloud"
+                    },
+                    {
+                        "height": 720,
+                        "width": 1280,
+                        "urlList": [
+                            {
+                                "name": "qcloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52424&editionType=high&source=qcloud",
+                                "size": 11348389
+                            },
+                            {
+                                "name": "ucloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52424&editionType=high&source=ucloud",
+                                "size": 11348389
+                            }
+                        ],
+                        "name": "高清",
+                        "type": "high",
+                        "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52424&editionType=high&source=qcloud"
+                    }
+                ],
+                "consumption": {
+                    "collectionCount": 216,
+                    "shareCount": 438,
+                    "replyCount": 12
+                },
+                "campaign": null,
+                "waterMarks": null,
+                "adTrack": null,
+                "tags": [
+                    {
+                        "id": 32,
+                        "name": "萌宠",
+                        "actionUrl": "eyepetizer://tag/32/?title=%E8%90%8C%E5%AE%A0",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 540,
+                        "name": "汪星人",
+                        "actionUrl": "eyepetizer://tag/540/?title=%E6%B1%AA%E6%98%9F%E4%BA%BA",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 108,
+                        "name": "爱情",
+                        "actionUrl": "eyepetizer://tag/108/?title=%E7%88%B1%E6%83%85",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 134,
+                        "name": "反转",
+                        "actionUrl": "eyepetizer://tag/134/?title=%E5%8F%8D%E8%BD%AC",
+                        "adTrack": null
+                    }
+                ],
+                "type": "NORMAL",
+                "titlePgc": "",
+                "descriptionPgc": "",
+                "remark": null,
+                "idx": 0,
+                "shareAdTrack": null,
+                "favoriteAdTrack": null,
+                "webAdTrack": null,
+                "date": 1506301200000,
+                "promotion": null,
+                "label": null,
+                "labelList": [],
+                "descriptionEditor": "生活处处有惊喜，最后还是逃不过套路……",
+                "collected": false,
+                "played": false,
+                "subtitles": [],
+                "lastViewTime": null,
+                "playlists": null
+            },
+            "tag": null
+        },
+        {
+            "type": "video",
+            "data": {
+                "dataType": "VideoBeanForClient",
+                "id": 13143,
+                "title": "做个单亲爸爸是怎样一种体验？",
+                "slogan": "独自养娃很难，但人生还要刚柔并济地走下去",
+                "description": "生活需要柔软相待，也要坚强做伴。有了女儿后，他再也不能像大老粗那样过日子，柴米油盐成了人生主旋律。同时担任父亲和母亲的角色，是一个不小的挑战。",
+                "provider": {
+                    "name": "YouTube",
+                    "alias": "youtube",
+                    "icon": "http://img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"
+                },
+                "category": "广告",
+                "author": {
+                    "id": 938,
+                    "icon": "http://img.kaiyanapp.com/e44ed5fcfa424ba35761ce5f1339bc16.jpeg?imageMogr2/quality/60/format/jpg",
+                    "name": "欧美广告精选",
+                    "description": "持续推送新奇、有趣、大开眼界的欧美创意广告",
+                    "link": "",
+                    "latestReleaseTime": 1506301203000,
+                    "videoNum": 152,
+                    "adTrack": null,
+                    "follow": {
+                        "itemType": "author",
+                        "itemId": 938,
+                        "followed": false
+                    },
+                    "shield": {
+                        "itemType": "author",
+                        "itemId": 938,
+                        "shielded": false
+                    },
+                    "approvedNotReadyVideoCount": 0,
+                    "ifPgc": true
+                },
+                "cover": {
+                    "feed": "http://img.kaiyanapp.com/974055b7193fdf16cf9313da480d594d.jpeg?imageMogr2/quality/60/format/jpg",
+                    "detail": "http://img.kaiyanapp.com/974055b7193fdf16cf9313da480d594d.jpeg?imageMogr2/quality/60/format/jpg",
+                    "blurred": "http://img.kaiyanapp.com/3721f2f797337ce21fd90c39475dc7e9.jpeg?imageMogr2/quality/60/format/jpg",
+                    "sharing": null,
+                    "homepage": "http://img.kaiyanapp.com/974055b7193fdf16cf9313da480d594d.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"
+                },
+                "playUrl": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=13143&editionType=default&source=qcloud",
+                "thumbPlayUrl": null,
+                "duration": 73,
+                "webUrl": {
+                    "raw": "http://www.eyepetizer.net/detail.html?vid=13143",
+                    "forWeibo": "http://wandou.im/3lj55b"
+                },
+                "releaseTime": 1506301203000,
+                "library": "DAILY",
+                "playInfo": [
+                    {
+                        "height": 270,
+                        "width": 480,
+                        "urlList": [
+                            {
+                                "name": "qcloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=13143&editionType=low&source=qcloud",
+                                "size": 2267817
+                            },
+                            {
+                                "name": "ucloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=13143&editionType=low&source=ucloud",
+                                "size": 2267817
+                            }
+                        ],
+                        "name": "流畅",
+                        "type": "low",
+                        "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=13143&editionType=low&source=qcloud"
+                    },
+                    {
+                        "height": 480,
+                        "width": 854,
+                        "urlList": [
+                            {
+                                "name": "qcloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=13143&editionType=normal&source=qcloud",
+                                "size": 4559246
+                            },
+                            {
+                                "name": "ucloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=13143&editionType=normal&source=ucloud",
+                                "size": 4559246
+                            }
+                        ],
+                        "name": "标清",
+                        "type": "normal",
+                        "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=13143&editionType=normal&source=qcloud"
+                    },
+                    {
+                        "height": 720,
+                        "width": 1280,
+                        "urlList": [
+                            {
+                                "name": "qcloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=13143&editionType=high&source=qcloud",
+                                "size": 7724036
+                            },
+                            {
+                                "name": "ucloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=13143&editionType=high&source=ucloud",
+                                "size": 7724036
+                            }
+                        ],
+                        "name": "高清",
+                        "type": "high",
+                        "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=13143&editionType=high&source=qcloud"
+                    }
+                ],
+                "consumption": {
+                    "collectionCount": 142,
+                    "shareCount": 86,
+                    "replyCount": 3
+                },
+                "campaign": null,
+                "waterMarks": null,
+                "adTrack": null,
+                "tags": [
+                    {
+                        "id": 16,
+                        "name": "广告",
+                        "actionUrl": "eyepetizer://tag/16/?title=%E5%B9%BF%E5%91%8A",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 110,
+                        "name": "亲情",
+                        "actionUrl": "eyepetizer://tag/110/?title=%E4%BA%B2%E6%83%85",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 138,
+                        "name": "催泪",
+                        "actionUrl": "eyepetizer://tag/138/?title=%E5%82%AC%E6%B3%AA",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 176,
+                        "name": "感人",
+                        "actionUrl": "eyepetizer://tag/176/?title=%E6%84%9F%E4%BA%BA",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 530,
+                        "name": "人生",
+                        "actionUrl": "eyepetizer://tag/530/?title=%E4%BA%BA%E7%94%9F",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 136,
+                        "name": "温情",
+                        "actionUrl": "eyepetizer://tag/136/?title=%E6%B8%A9%E6%83%85",
+                        "adTrack": null
+                    }
+                ],
+                "type": "NORMAL",
+                "titlePgc": null,
+                "descriptionPgc": null,
+                "remark": "抚养女儿的单亲爸爸",
+                "idx": 0,
+                "shareAdTrack": null,
+                "favoriteAdTrack": null,
+                "webAdTrack": null,
+                "date": 1506301200000,
+                "promotion": null,
+                "label": null,
+                "labelList": [],
+                "descriptionEditor": "生活需要柔软相待，也要坚强做伴。有了女儿后，他再也不能像大老粗那样过日子，柴米油盐成了人生主旋律。同时担任父亲和母亲的角色，是一个不小的挑战。",
+                "collected": false,
+                "played": false,
+                "subtitles": [],
+                "lastViewTime": null,
+                "playlists": null
+            },
+            "tag": null
+        },
+        {
+            "type": "banner",
+            "data": {
+                "dataType": "Banner",
+                "id": 508,
+                "title": "安全稳健，金秋送礼",
+                "description": "凤凰金融送你 1888 红包",
+                "image": "http://img.kaiyanapp.com/03786184ca867182131472403b1320f9.jpeg?imageMogr2/quality/60/format/jpg",
+                "actionUrl": "eyepetizer://webview/?title=%E5%AE%89%E5%85%A8%E7%A8%B3%E5%81%A5%EF%BC%8C%E9%87%91%E7%A7%8B%E9%80%81%E7%A4%BC&url=https%3A%2F%2Fwww.fengjr.com%2Fcps%3Fch%3D1bqrr8nnj-1%26ac%3D200508%26cu%3Dnocu%26mk%3Dnomk%26shareable%3Dtrue",
+                "adTrack": null,
+                "shade": false,
+                "label": {
+                    "text": "广告",
+                    "card": "广告",
+                    "detail": null
+                },
+                "labelList": [
+                    {
+                        "text": "广告",
+                        "actionUrl": null
+                    }
+                ],
+                "header": {
+                    "id": 0,
+                    "title": "安全稳健，金秋送礼",
+                    "font": null,
+                    "cover": null,
+                    "label": null,
+                    "actionUrl": null,
+                    "labelList": null,
+                    "icon": "http://img.kaiyanapp.com/fb15a979ca550e9a53f9e508ee64afc1.jpeg?imageMogr2/quality/60/format/jpg",
+                    "description": "凤凰金融送你 1888 红包"
+                }
+            },
+            "tag": null
+        },
+        {
+            "type": "video",
+            "data": {
+                "dataType": "VideoBeanForClient",
+                "id": 52614,
+                "title": "无法融入人群，就在高楼顶层俯视他们",
+                "slogan": "聋人女孩，给世界一个暴击",
+                "description": "重庆聋人女孩成爬楼党，无声爬上百座高楼玩倒立，给世界一个暴击 。",
+                "provider": {
+                    "name": "PGC",
+                    "alias": "PGC",
+                    "icon": ""
+                },
+                "category": "运动",
+                "author": {
+                    "id": 677,
+                    "icon": "http://img.kaiyanapp.com/fac591bc790cb5b6d0c37ec5dedc3fc9.png?imageMogr2/quality/60/format/jpg",
+                    "name": "Figure",
+                    "description": "你想看的人物，你想不到的故事",
+                    "link": "",
+                    "latestReleaseTime": 1506340218000,
+                    "videoNum": 56,
+                    "adTrack": null,
+                    "follow": {
+                        "itemType": "author",
+                        "itemId": 677,
+                        "followed": false
+                    },
+                    "shield": {
+                        "itemType": "author",
+                        "itemId": 677,
+                        "shielded": false
+                    },
+                    "approvedNotReadyVideoCount": 0,
+                    "ifPgc": true
+                },
+                "cover": {
+                    "feed": "http://img.kaiyanapp.com/591442bc8d15977b139770e82c85c296.jpeg?imageMogr2/quality/60/format/jpg",
+                    "detail": "http://img.kaiyanapp.com/591442bc8d15977b139770e82c85c296.jpeg?imageMogr2/quality/60/format/jpg",
+                    "blurred": "http://img.kaiyanapp.com/c248b21cd342263fd9ee179c51bf595f.jpeg?imageMogr2/quality/60/format/jpg",
+                    "sharing": null,
+                    "homepage": "http://img.kaiyanapp.com/591442bc8d15977b139770e82c85c296.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"
+                },
+                "playUrl": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52614&editionType=default&source=qcloud",
+                "thumbPlayUrl": null,
+                "duration": 298,
+                "webUrl": {
+                    "raw": "http://www.eyepetizer.net/detail.html?vid=52614",
+                    "forWeibo": "http://wandou.im/3ocrnf"
+                },
+                "releaseTime": 1505993662000,
+                "library": "DAILY",
+                "playInfo": [
+                    {
+                        "height": 270,
+                        "width": 480,
+                        "urlList": [
+                            {
+                                "name": "qcloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52614&editionType=low&source=qcloud",
+                                "size": 10781567
+                            },
+                            {
+                                "name": "ucloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52614&editionType=low&source=ucloud",
+                                "size": 10781567
+                            }
+                        ],
+                        "name": "流畅",
+                        "type": "low",
+                        "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52614&editionType=low&source=qcloud"
+                    },
+                    {
+                        "height": 480,
+                        "width": 854,
+                        "urlList": [
+                            {
+                                "name": "qcloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52614&editionType=normal&source=qcloud",
+                                "size": 23213322
+                            },
+                            {
+                                "name": "ucloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52614&editionType=normal&source=ucloud",
+                                "size": 23213322
+                            }
+                        ],
+                        "name": "标清",
+                        "type": "normal",
+                        "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52614&editionType=normal&source=qcloud"
+                    },
+                    {
+                        "height": 720,
+                        "width": 1280,
+                        "urlList": [
+                            {
+                                "name": "qcloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52614&editionType=high&source=qcloud",
+                                "size": 39577407
+                            },
+                            {
+                                "name": "ucloud",
+                                "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52614&editionType=high&source=ucloud",
+                                "size": 39577407
+                            }
+                        ],
+                        "name": "高清",
+                        "type": "high",
+                        "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52614&editionType=high&source=qcloud"
+                    }
+                ],
+                "consumption": {
+                    "collectionCount": 246,
+                    "shareCount": 132,
+                    "replyCount": 15
+                },
+                "campaign": null,
+                "waterMarks": null,
+                "adTrack": null,
+                "tags": [
+                    {
+                        "id": 4,
+                        "name": "运动",
+                        "actionUrl": "eyepetizer://tag/4/?title=%E8%BF%90%E5%8A%A8",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 510,
+                        "name": "励志",
+                        "actionUrl": "eyepetizer://tag/510/?title=%E5%8A%B1%E5%BF%97",
+                        "adTrack": null
+                    },
+                    {
+                        "id": 176,
+                        "name": "感人",
+                        "actionUrl": "eyepetizer://tag/176/?title=%E6%84%9F%E4%BA%BA",
+                        "adTrack": null
+                    }
+                ],
+                "type": "NORMAL",
+                "titlePgc": "无法融入人群就在高楼顶层俯视他们",
+                "descriptionPgc": "重庆聋人女孩成爬楼党，无声爬上百座高楼玩倒立，给世界一个暴击 ",
+                "remark": "",
+                "idx": 0,
+                "shareAdTrack": null,
+                "favoriteAdTrack": null,
+                "webAdTrack": null,
+                "date": 1506301200000,
+                "promotion": null,
+                "label": null,
+                "labelList": [],
+                "descriptionEditor": "重庆聋人女孩成爬楼党，无声爬上百座高楼玩倒立，给世界一个暴击 。",
+                "collected": false,
+                "played": false,
+                "subtitles": [],
+                "lastViewTime": null,
+                "playlists": null
+            },
+            "tag": null
+        },
+        {
+            "type": "videoCollectionOfFollow",
+            "data": {
+                "dataType": "ItemCollection",
+                "header": {
+                    "id": 0,
+                    "title": "热门作者 / 精选分类关注推荐",
+                    "font": "bold",
+                    "cover": "http://img.kaiyanapp.com/2d5b6990c04ec7a21d77779eabed7b3f.png",
+                    "label": null,
+                    "actionUrl": "eyepetizer://pgcs/all",
+                    "labelList": null,
+                    "iconList": [
+                        "http://img.kaiyanapp.com/95b90de9b8b8d80268bd56f8494a9917.png?imageMogr2/quality/60/format/jpg",
+                        "http://img.kaiyanapp.com/c1c4df148d2b0b41ba80abdfbc45120d.png?imageMogr2/quality/60/format/jpg",
+                        "http://img.kaiyanapp.com/0324d3f1dd74de6e95de13f2f442e098.jpeg?imageMogr2/quality/60"
+                    ],
+                    "description": "你好屋 / 90马力 / IYstudio艺术视频"
+                },
+                "itemList": [
+                    {
+                        "type": "video",
+                        "data": {
+                            "dataType": "VideoBeanForClient",
+                            "id": 52839,
+                            "title": "主播民宿清唱《爱要坦荡荡》",
+                            "slogan": null,
+                            "description": "全球最棒民宿+旅行攻略的短视频频道 。 一间合适的民宿是一场完美旅行的开始 。 一篇超实用的旅行攻略让你省钱省心。",
+                            "provider": {
+                                "name": "PGC",
+                                "alias": "PGC",
+                                "icon": ""
+                            },
+                            "category": "旅行",
+                            "author": {
+                                "id": 1670,
+                                "icon": "http://img.kaiyanapp.com/95b90de9b8b8d80268bd56f8494a9917.png?imageMogr2/quality/60/format/jpg",
+                                "name": "你好屋",
+                                "description": "全球最棒民宿+旅行攻略的短视频频道 。 一间合适的民宿是一场完美旅行的开始 。 一篇超实用的旅行攻略让你省钱省心。",
+                                "link": "",
+                                "latestReleaseTime": 1506387600000,
+                                "videoNum": 39,
+                                "adTrack": null,
+                                "follow": {
+                                    "itemType": "author",
+                                    "itemId": 1670,
+                                    "followed": false
+                                },
+                                "shield": {
+                                    "itemType": "author",
+                                    "itemId": 1670,
+                                    "shielded": false
+                                },
+                                "approvedNotReadyVideoCount": 0,
+                                "ifPgc": true
+                            },
+                            "cover": {
+                                "feed": "http://img.kaiyanapp.com/010b39bee146f38b4a7d01da4e9472b1.png?imageMogr2/quality/60/format/jpg",
+                                "detail": "http://img.kaiyanapp.com/010b39bee146f38b4a7d01da4e9472b1.png?imageMogr2/quality/60/format/jpg",
+                                "blurred": "http://img.kaiyanapp.com/d2e7b0ec4a79bf18a7ed4c2f81e2440b.jpeg?imageMogr2/quality/60/format/jpg",
+                                "sharing": null,
+                                "homepage": null
+                            },
+                            "playUrl": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52839&editionType=default&source=qcloud",
+                            "thumbPlayUrl": null,
+                            "duration": 75,
+                            "webUrl": {
+                                "raw": "http://www.eyepetizer.net/detail.html?vid=52839",
+                                "forWeibo": "http://wandou.im/3ocvrl"
+                            },
+                            "releaseTime": 1506387600000,
+                            "library": "BLOCK",
+                            "playInfo": [
+                                {
+                                    "height": 270,
+                                    "width": 480,
+                                    "urlList": [
+                                        {
+                                            "name": "qcloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52839&editionType=low&source=qcloud",
+                                            "size": 2685747
+                                        },
+                                        {
+                                            "name": "ucloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52839&editionType=low&source=ucloud",
+                                            "size": 2685747
+                                        }
+                                    ],
+                                    "name": "流畅",
+                                    "type": "low",
+                                    "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52839&editionType=low&source=qcloud"
+                                },
+                                {
+                                    "height": 480,
+                                    "width": 854,
+                                    "urlList": [
+                                        {
+                                            "name": "qcloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52839&editionType=normal&source=qcloud",
+                                            "size": 5991346
+                                        },
+                                        {
+                                            "name": "ucloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52839&editionType=normal&source=ucloud",
+                                            "size": 5991346
+                                        }
+                                    ],
+                                    "name": "标清",
+                                    "type": "normal",
+                                    "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52839&editionType=normal&source=qcloud"
+                                },
+                                {
+                                    "height": 720,
+                                    "width": 1280,
+                                    "urlList": [
+                                        {
+                                            "name": "qcloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52839&editionType=high&source=qcloud",
+                                            "size": 10152915
+                                        },
+                                        {
+                                            "name": "ucloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52839&editionType=high&source=ucloud",
+                                            "size": 10152915
+                                        }
+                                    ],
+                                    "name": "高清",
+                                    "type": "high",
+                                    "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52839&editionType=high&source=qcloud"
+                                }
+                            ],
+                            "consumption": {
+                                "collectionCount": 0,
+                                "shareCount": 0,
+                                "replyCount": 0
+                            },
+                            "campaign": null,
+                            "waterMarks": null,
+                            "adTrack": null,
+                            "tags": [],
+                            "type": "NORMAL",
+                            "titlePgc": "主播民宿清唱《爱要坦荡荡》",
+                            "descriptionPgc": "全球最棒民宿+旅行攻略的短视频频道 。 一间合适的民宿是一场完美旅行的开始 。 一篇超实用的旅行攻略让你省钱省心。",
+                            "remark": "",
+                            "idx": 0,
+                            "shareAdTrack": null,
+                            "favoriteAdTrack": null,
+                            "webAdTrack": null,
+                            "date": 1506387600000,
+                            "promotion": null,
+                            "label": null,
+                            "labelList": [],
+                            "descriptionEditor": "",
+                            "collected": false,
+                            "played": false,
+                            "subtitles": [],
+                            "lastViewTime": null,
+                            "playlists": null
+                        },
+                        "tag": null
+                    },
+                    {
+                        "type": "video",
+                        "data": {
+                            "dataType": "VideoBeanForClient",
+                            "id": 53256,
+                            "title": "宝马G310 R遇上LA的街头艺术",
+                            "slogan": null,
+                            "description": "自由随性，无拘无束。这不仅是一种态度，更是灵感的源泉。作为 BMW 最新推出的产品，G310R 想要彰显的或许就是这种挣脱 BMW 束缚的与众不同。",
+                            "provider": {
+                                "name": "PGC",
+                                "alias": "PGC",
+                                "icon": ""
+                            },
+                            "category": "广告",
+                            "author": {
+                                "id": 765,
+                                "icon": "http://img.kaiyanapp.com/c1c4df148d2b0b41ba80abdfbc45120d.png?imageMogr2/quality/60/format/jpg",
+                                "name": "90马力",
+                                "description": "让指针归零，跃上一匹铁骑。\n以二三轰鸣，唤来四五知已。\n用六个昼夜，翻越七城边境。\n迎八面之风，坐享九十马力。",
+                                "link": "",
+                                "latestReleaseTime": 1506380400000,
+                                "videoNum": 164,
+                                "adTrack": null,
+                                "follow": {
+                                    "itemType": "author",
+                                    "itemId": 765,
+                                    "followed": false
+                                },
+                                "shield": {
+                                    "itemType": "author",
+                                    "itemId": 765,
+                                    "shielded": false
+                                },
+                                "approvedNotReadyVideoCount": 0,
+                                "ifPgc": true
+                            },
+                            "cover": {
+                                "feed": "http://img.kaiyanapp.com/3494f102b4df33b3742e113f3c8d05c0.png?imageMogr2/quality/60/format/jpg",
+                                "detail": "http://img.kaiyanapp.com/3494f102b4df33b3742e113f3c8d05c0.png?imageMogr2/quality/60/format/jpg",
+                                "blurred": "http://img.kaiyanapp.com/598c6fd5baf1a8126409a7a74147ef68.jpeg?imageMogr2/quality/60/format/jpg",
+                                "sharing": null,
+                                "homepage": null
+                            },
+                            "playUrl": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53256&editionType=default&source=qcloud",
+                            "thumbPlayUrl": null,
+                            "duration": 139,
+                            "webUrl": {
+                                "raw": "http://www.eyepetizer.net/detail.html?vid=53256",
+                                "forWeibo": "http://wandou.im/3odjc3"
+                            },
+                            "releaseTime": 1506380400000,
+                            "library": "DEFAULT",
+                            "playInfo": [
+                                {
+                                    "height": 270,
+                                    "width": 480,
+                                    "urlList": [
+                                        {
+                                            "name": "qcloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53256&editionType=low&source=qcloud",
+                                            "size": 6483798
+                                        },
+                                        {
+                                            "name": "ucloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53256&editionType=low&source=ucloud",
+                                            "size": 6483798
+                                        }
+                                    ],
+                                    "name": "流畅",
+                                    "type": "low",
+                                    "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53256&editionType=low&source=qcloud"
+                                },
+                                {
+                                    "height": 480,
+                                    "width": 854,
+                                    "urlList": [
+                                        {
+                                            "name": "qcloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53256&editionType=normal&source=qcloud",
+                                            "size": 12264322
+                                        },
+                                        {
+                                            "name": "ucloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53256&editionType=normal&source=ucloud",
+                                            "size": 12264322
+                                        }
+                                    ],
+                                    "name": "标清",
+                                    "type": "normal",
+                                    "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53256&editionType=normal&source=qcloud"
+                                },
+                                {
+                                    "height": 720,
+                                    "width": 1280,
+                                    "urlList": [
+                                        {
+                                            "name": "qcloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53256&editionType=high&source=qcloud",
+                                            "size": 19600599
+                                        },
+                                        {
+                                            "name": "ucloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53256&editionType=high&source=ucloud",
+                                            "size": 19600599
+                                        }
+                                    ],
+                                    "name": "高清",
+                                    "type": "high",
+                                    "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53256&editionType=high&source=qcloud"
+                                }
+                            ],
+                            "consumption": {
+                                "collectionCount": 6,
+                                "shareCount": 4,
+                                "replyCount": 0
+                            },
+                            "campaign": null,
+                            "waterMarks": null,
+                            "adTrack": null,
+                            "tags": [],
+                            "type": "NORMAL",
+                            "titlePgc": "宝马G310 R遇上LA的街头艺术",
+                            "descriptionPgc": "自由随性，无拘无束。这不仅是一种态度，更是灵感的源泉。作为 BMW 最新推出的产品，G310R 想要彰显的或许就是这种挣脱 BMW 束缚的与众不同。",
+                            "remark": "BMW G310R meets ThankYouX",
+                            "idx": 0,
+                            "shareAdTrack": null,
+                            "favoriteAdTrack": null,
+                            "webAdTrack": null,
+                            "date": 1506380400000,
+                            "promotion": null,
+                            "label": null,
+                            "labelList": [],
+                            "descriptionEditor": "",
+                            "collected": false,
+                            "played": false,
+                            "subtitles": [],
+                            "lastViewTime": null,
+                            "playlists": null
+                        },
+                        "tag": null
+                    },
+                    {
+                        "type": "video",
+                        "data": {
+                            "dataType": "VideoBeanForClient",
+                            "id": 52918,
+                            "title": "漆艺家的私家淘物：钟声爱物",
+                            "slogan": null,
+                            "description": "漆艺家钟声用十年造物，除古瓷修复外，钟声将对于物、人、自然三者关系的理解都倾注于他的创作中。而生活中的他更是爱物之人，这些年走南闯北收来的老物件都在这支视频中了。",
+                            "provider": {
+                                "name": "PGC",
+                                "alias": "PGC",
+                                "icon": ""
+                            },
+                            "category": "生活",
+                            "author": {
+                                "id": 296,
+                                "icon": "http://img.kaiyanapp.com/0324d3f1dd74de6e95de13f2f442e098.jpeg?imageMogr2/quality/60",
+                                "name": "IYstudio艺术视频",
+                                "description": "据说，只有足够挑剔的人才喜欢这里的视频。国内有关艺术的高冷系原创视频平台。微信关注：IYstudio！",
+                                "link": "",
+                                "latestReleaseTime": 1506344403000,
+                                "videoNum": 66,
+                                "adTrack": null,
+                                "follow": {
+                                    "itemType": "author",
+                                    "itemId": 296,
+                                    "followed": false
+                                },
+                                "shield": {
+                                    "itemType": "author",
+                                    "itemId": 296,
+                                    "shielded": false
+                                },
+                                "approvedNotReadyVideoCount": 0,
+                                "ifPgc": true
+                            },
+                            "cover": {
+                                "feed": "http://img.kaiyanapp.com/d4cba9f60340dbb3cb3b44647b452a35.png?imageMogr2/quality/60/format/jpg",
+                                "detail": "http://img.kaiyanapp.com/d4cba9f60340dbb3cb3b44647b452a35.png?imageMogr2/quality/60/format/jpg",
+                                "blurred": "http://img.kaiyanapp.com/f0b2e0c35a6ff9bda6598b682e93ae3e.jpeg?imageMogr2/quality/60/format/jpg",
+                                "sharing": null,
+                                "homepage": null
+                            },
+                            "playUrl": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52918&editionType=default&source=qcloud",
+                            "thumbPlayUrl": null,
+                            "duration": 192,
+                            "webUrl": {
+                                "raw": "http://www.eyepetizer.net/detail.html?vid=52918",
+                                "forWeibo": "http://wandou.im/3ocwno"
+                            },
+                            "releaseTime": 1506344403000,
+                            "library": "DEFAULT",
+                            "playInfo": [
+                                {
+                                    "height": 270,
+                                    "width": 480,
+                                    "urlList": [
+                                        {
+                                            "name": "qcloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52918&editionType=low&source=qcloud",
+                                            "size": 6942054
+                                        },
+                                        {
+                                            "name": "ucloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52918&editionType=low&source=ucloud",
+                                            "size": 6942054
+                                        }
+                                    ],
+                                    "name": "流畅",
+                                    "type": "low",
+                                    "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52918&editionType=low&source=qcloud"
+                                },
+                                {
+                                    "height": 480,
+                                    "width": 854,
+                                    "urlList": [
+                                        {
+                                            "name": "qcloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52918&editionType=normal&source=qcloud",
+                                            "size": 14155612
+                                        },
+                                        {
+                                            "name": "ucloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52918&editionType=normal&source=ucloud",
+                                            "size": 14155612
+                                        }
+                                    ],
+                                    "name": "标清",
+                                    "type": "normal",
+                                    "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52918&editionType=normal&source=qcloud"
+                                },
+                                {
+                                    "height": 720,
+                                    "width": 1280,
+                                    "urlList": [
+                                        {
+                                            "name": "qcloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52918&editionType=high&source=qcloud",
+                                            "size": 23433277
+                                        },
+                                        {
+                                            "name": "ucloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52918&editionType=high&source=ucloud",
+                                            "size": 23433277
+                                        }
+                                    ],
+                                    "name": "高清",
+                                    "type": "high",
+                                    "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52918&editionType=high&source=qcloud"
+                                }
+                            ],
+                            "consumption": {
+                                "collectionCount": 4,
+                                "shareCount": 4,
+                                "replyCount": 0
+                            },
+                            "campaign": null,
+                            "waterMarks": null,
+                            "adTrack": null,
+                            "tags": [],
+                            "type": "NORMAL",
+                            "titlePgc": "漆艺家的私家淘物：钟声爱物",
+                            "descriptionPgc": "漆艺家钟声用十年造物，除古瓷修复外，钟声将对于物、人、自然三者关系的理解都倾注于他的创作中。而生活中的他更是爱物之人，这些年走南闯北收来的老物件都在这支视频中了。",
+                            "remark": "",
+                            "idx": 0,
+                            "shareAdTrack": null,
+                            "favoriteAdTrack": null,
+                            "webAdTrack": null,
+                            "date": 1506344403000,
+                            "promotion": null,
+                            "label": null,
+                            "labelList": [],
+                            "descriptionEditor": "",
+                            "collected": false,
+                            "played": false,
+                            "subtitles": [],
+                            "lastViewTime": null,
+                            "playlists": null
+                        },
+                        "tag": null
+                    },
+                    {
+                        "type": "video",
+                        "data": {
+                            "dataType": "VideoBeanForClient",
+                            "id": 52857,
+                            "title": "为什么吸氦气可以让你变声小黄人？",
+                            "slogan": null,
+                            "description": "想要变得#萌萌哒#？变声器out！来点纯天然的，吸口氦气唱首歌！男声变女声，大人变声小黄人，氦气好玩可不要多吸噢！戳视频，00:15秒笑死！",
+                            "provider": {
+                                "name": "PGC",
+                                "alias": "PGC",
+                                "icon": ""
+                            },
+                            "category": "科普",
+                            "author": {
+                                "id": 437,
+                                "icon": "http://img.kaiyanapp.com/005ace77f5dffbbd1e48c4672db1b694.jpeg?imageMogr2/quality/60/format/jpg",
+                                "name": "探吧",
+                                "description": "探吧Fun学堂，每天一条花式科普小视频，让知识传播更有趣味！",
+                                "link": "",
+                                "latestReleaseTime": 1506344400000,
+                                "videoNum": 203,
+                                "adTrack": null,
+                                "follow": {
+                                    "itemType": "author",
+                                    "itemId": 437,
+                                    "followed": false
+                                },
+                                "shield": {
+                                    "itemType": "author",
+                                    "itemId": 437,
+                                    "shielded": false
+                                },
+                                "approvedNotReadyVideoCount": 0,
+                                "ifPgc": true
+                            },
+                            "cover": {
+                                "feed": "http://img.kaiyanapp.com/44341e06582ab5a2cb091a5a68f886e4.png?imageMogr2/quality/60/format/jpg",
+                                "detail": "http://img.kaiyanapp.com/44341e06582ab5a2cb091a5a68f886e4.png?imageMogr2/quality/60/format/jpg",
+                                "blurred": "http://img.kaiyanapp.com/82cec708da0221637ba0fdca09481f49.jpeg?imageMogr2/quality/60/format/jpg",
+                                "sharing": null,
+                                "homepage": null
+                            },
+                            "playUrl": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52857&editionType=default&source=qcloud",
+                            "thumbPlayUrl": null,
+                            "duration": 83,
+                            "webUrl": {
+                                "raw": "http://www.eyepetizer.net/detail.html?vid=52857",
+                                "forWeibo": "http://wandou.im/3ocvto"
+                            },
+                            "releaseTime": 1506344400000,
+                            "library": "DEFAULT",
+                            "playInfo": [
+                                {
+                                    "height": 270,
+                                    "width": 480,
+                                    "urlList": [
+                                        {
+                                            "name": "qcloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52857&editionType=low&source=qcloud",
+                                            "size": 3482044
+                                        },
+                                        {
+                                            "name": "ucloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52857&editionType=low&source=ucloud",
+                                            "size": 3482044
+                                        }
+                                    ],
+                                    "name": "流畅",
+                                    "type": "low",
+                                    "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52857&editionType=low&source=qcloud"
+                                },
+                                {
+                                    "height": 480,
+                                    "width": 854,
+                                    "urlList": [
+                                        {
+                                            "name": "qcloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52857&editionType=normal&source=qcloud",
+                                            "size": 6116026
+                                        },
+                                        {
+                                            "name": "ucloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52857&editionType=normal&source=ucloud",
+                                            "size": 6116026
+                                        }
+                                    ],
+                                    "name": "标清",
+                                    "type": "normal",
+                                    "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52857&editionType=normal&source=qcloud"
+                                },
+                                {
+                                    "height": 720,
+                                    "width": 1280,
+                                    "urlList": [
+                                        {
+                                            "name": "qcloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52857&editionType=high&source=qcloud",
+                                            "size": 9594934
+                                        },
+                                        {
+                                            "name": "ucloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52857&editionType=high&source=ucloud",
+                                            "size": 9594934
+                                        }
+                                    ],
+                                    "name": "高清",
+                                    "type": "high",
+                                    "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=52857&editionType=high&source=qcloud"
+                                }
+                            ],
+                            "consumption": {
+                                "collectionCount": 24,
+                                "shareCount": 4,
+                                "replyCount": 0
+                            },
+                            "campaign": null,
+                            "waterMarks": null,
+                            "adTrack": null,
+                            "tags": [],
+                            "type": "NORMAL",
+                            "titlePgc": "为什么吸氦气可以让你变声小黄人？",
+                            "descriptionPgc": "想要变得#萌萌哒#？变声器out！来点纯天然的，吸口氦气唱首歌！男声变女声，大人变声小黄人，氦气好玩可不要多吸噢！戳视频，00:15秒笑死！",
+                            "remark": "",
+                            "idx": 0,
+                            "shareAdTrack": null,
+                            "favoriteAdTrack": null,
+                            "webAdTrack": null,
+                            "date": 1506344400000,
+                            "promotion": null,
+                            "label": null,
+                            "labelList": [],
+                            "descriptionEditor": "",
+                            "collected": false,
+                            "played": false,
+                            "subtitles": [],
+                            "lastViewTime": null,
+                            "playlists": null
+                        },
+                        "tag": null
+                    },
+                    {
+                        "type": "video",
+                        "data": {
+                            "dataType": "VideoBeanForClient",
+                            "id": 53472,
+                            "title": "尸约，闺蜜相约一起死她反悔遭猛鬼复仇",
+                            "slogan": null,
+                            "description": "原本前途一片光明的千金闺蜜芭恩和伊碧，家人也因此受到波及，双方父母砸重金投资的沙吞摩天大楼建案因此停工，2人无法接受如此惨况，便决定一起到该栋大楼自杀，承诺要永远陪在彼此身边。本片将在10月20日上映",
+                            "provider": {
+                                "name": "PGC",
+                                "alias": "PGC",
+                                "icon": ""
+                            },
+                            "category": "预告",
+                            "author": {
+                                "id": 863,
+                                "icon": "http://img.kaiyanapp.com/c33a1125dfe02277cd6a57e42a0d5058.png?imageMogr2/quality/60/format/jpg",
+                                "name": "猫两眼电影",
+                                "description": "电影、视频剪辑爱好者，lf you like my video ，please Subscribe and Share，it helps me a lot！",
+                                "link": "",
+                                "latestReleaseTime": 1506340718000,
+                                "videoNum": 109,
+                                "adTrack": null,
+                                "follow": {
+                                    "itemType": "author",
+                                    "itemId": 863,
+                                    "followed": false
+                                },
+                                "shield": {
+                                    "itemType": "author",
+                                    "itemId": 863,
+                                    "shielded": false
+                                },
+                                "approvedNotReadyVideoCount": 0,
+                                "ifPgc": true
+                            },
+                            "cover": {
+                                "feed": "http://img.kaiyanapp.com/06852f07c1646f5949bf43eabc7fbd0f.png?imageMogr2/quality/60/format/jpg",
+                                "detail": "http://img.kaiyanapp.com/06852f07c1646f5949bf43eabc7fbd0f.png?imageMogr2/quality/60/format/jpg",
+                                "blurred": "http://img.kaiyanapp.com/6b813e9a6e8e176d9f3578ca6374d3d1.jpeg?imageMogr2/quality/60/format/jpg",
+                                "sharing": null,
+                                "homepage": null
+                            },
+                            "playUrl": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53472&editionType=default&source=qcloud",
+                            "thumbPlayUrl": null,
+                            "duration": 119,
+                            "webUrl": {
+                                "raw": "http://www.eyepetizer.net/detail.html?vid=53472",
+                                "forWeibo": "http://wandou.im/3odlnw"
+                            },
+                            "releaseTime": 1506340718000,
+                            "library": "DEFAULT",
+                            "playInfo": [
+                                {
+                                    "height": 270,
+                                    "width": 480,
+                                    "urlList": [
+                                        {
+                                            "name": "qcloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53472&editionType=low&source=qcloud",
+                                            "size": 3191187
+                                        },
+                                        {
+                                            "name": "ucloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53472&editionType=low&source=ucloud",
+                                            "size": 3191187
+                                        }
+                                    ],
+                                    "name": "流畅",
+                                    "type": "low",
+                                    "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53472&editionType=low&source=qcloud"
+                                },
+                                {
+                                    "height": 480,
+                                    "width": 854,
+                                    "urlList": [
+                                        {
+                                            "name": "qcloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53472&editionType=normal&source=qcloud",
+                                            "size": 5572276
+                                        },
+                                        {
+                                            "name": "ucloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53472&editionType=normal&source=ucloud",
+                                            "size": 5572276
+                                        }
+                                    ],
+                                    "name": "标清",
+                                    "type": "normal",
+                                    "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53472&editionType=normal&source=qcloud"
+                                },
+                                {
+                                    "height": 720,
+                                    "width": 1280,
+                                    "urlList": [
+                                        {
+                                            "name": "qcloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53472&editionType=high&source=qcloud",
+                                            "size": 8925372
+                                        },
+                                        {
+                                            "name": "ucloud",
+                                            "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53472&editionType=high&source=ucloud",
+                                            "size": 8925372
+                                        }
+                                    ],
+                                    "name": "高清",
+                                    "type": "high",
+                                    "url": "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=53472&editionType=high&source=qcloud"
+                                }
+                            ],
+                            "consumption": {
+                                "collectionCount": 15,
+                                "shareCount": 15,
+                                "replyCount": 0
+                            },
+                            "campaign": null,
+                            "waterMarks": null,
+                            "adTrack": null,
+                            "tags": [],
+                            "type": "NORMAL",
+                            "titlePgc": "尸约，闺蜜相约一起死她反悔遭猛鬼复仇",
+                            "descriptionPgc": "原本前途一片光明的千金闺蜜芭恩和伊碧，家人也因此受到波及，双方父母砸重金投资的沙吞摩天大楼建案因此停工，2人无法接受如此惨况，便决定一起到该栋大楼自杀，承诺要永远陪在彼此身边。本片将在10月20日上映",
+                            "remark": "",
+                            "idx": 0,
+                            "shareAdTrack": null,
+                            "favoriteAdTrack": null,
+                            "webAdTrack": null,
+                            "date": 1506340718000,
+                            "promotion": null,
+                            "label": null,
+                            "labelList": [],
+                            "descriptionEditor": "",
+                            "collected": false,
+                            "played": false,
+                            "subtitles": [],
+                            "lastViewTime": null,
+                            "playlists": null
+                        },
+                        "tag": null
+                    }
+                ],
+                "count": 5,
+                "adTrack": null
+            },
+            "tag": null
+        }
+    ],
+    "count": 16,
+    "total": 0,
+    "nextPageUrl": "http://baobab.kaiyanapp.com/api/v4/tabs/selected?num=2&page=2",
+    "date": 1506387600000,
+    "nextPublishTime": 1506474000000,
+    "dialog": null,
+    "topIssue": null,
+    "refreshCount": 0,
+    "lastStartId": 0
+}
